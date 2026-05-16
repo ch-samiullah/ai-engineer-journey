@@ -1,0 +1,13 @@
+{
+    "name": "Samiullah",
+    "age": 21,
+    "cgpa": 3.0,
+    "skills": [
+        "Python",
+        "Lists",
+        "Loops",
+        "Functions",
+        "Dictionaries"
+    ],
+    "goal": "AI Automation Engineer"
+}
