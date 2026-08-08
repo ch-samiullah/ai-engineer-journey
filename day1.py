@@ -39,4 +39,13 @@ print("Am I learning Python?", is_learning_python)
 print(f"\nMy name is {my_name} and I want to become an {my_goal}.")
 print(f"I will study {study_hours_weekday} hour on weekdays and {study_hours_weekend} hours on weekends.")
 print(f"I will raise my CGPA from {current_cgpa} to {target_cgpa}.")
-print(f"I will raise my")
+print(f"I will raise my ",target_cgpa)
+x = 'awesome'
+
+def myfunc():
+  x = "fantastic"
+  print("Python is " + x)
+
+myfunc()
+
+print("Python is " + x)
