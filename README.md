@@ -53,9 +53,6 @@ BSCS Graduate → AI Engineer → Norway
 - ⏳ Week 8: AutoNotes Pro + TARS
 - ⏳ Week 9: FastAPI + Deploy
 
-## Goal
-AI Automation Engineer → Norway (OsloMet 2027)
-
 ## Connect
-- GitHub: github.com/samilaiba
+- GitHub: github.com/ch-samiullah
 - Email: samiu14344@gmail.com
